@@ -1,0 +1,15 @@
+## conda env create -f environment.yml
+name: basicenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python  
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - ipykernel
+  - pip:
+    - xgboost
