@@ -1,6 +1,0 @@
-{
-    "python.condaPath": "C:\\Users\\sanke\\miniconda3\\Scripts\\conda.exe",
-    "python.pythonPath": "C:\\Users\\sanke\\miniconda3\\envs\\basicenv\\python.exe",
-    "python.terminal.activateEnvironment": true,
-    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe"
-}
